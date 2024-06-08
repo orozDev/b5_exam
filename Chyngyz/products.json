@@ -1,0 +1,18 @@
+{
+    "voda": {
+        "price": 50,
+        "quantity": 1
+    },
+    "cola": {
+        "price": 80,
+        "quantity": 5
+    },
+    "chipsy": {
+        "price": 60,
+        "quantity": 7
+    },
+    "chokolat": {
+        "price": 70,
+        "quantity": 8
+    }
+}
