@@ -18,5 +18,3 @@ def func(str1):
                     b +="]"
     print(b)
 func(input())
-
-# 50/50
